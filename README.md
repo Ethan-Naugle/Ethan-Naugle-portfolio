@@ -61,7 +61,13 @@
         <li><a href="https://delranschools.org" target="_blank">My School Website</a></li>
       </ul>
     </section>
-
+echo "# Ethan-Naugle.github.io" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Ethan-Naugle/Ethan-Naugle.github.io.git
+git push -u origin main
     <footer>
       <p>© 2025 Ethan Naugle</p>
     </footer>
