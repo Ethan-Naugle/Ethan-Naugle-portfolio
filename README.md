@@ -1,4 +1,4 @@
-# Ethan-Naugle.github.io
+# ethan-naugle.github.io
 <!DOCTYPE html>
 <html lang="en">
 <head>
